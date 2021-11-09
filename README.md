@@ -28,3 +28,12 @@ week 41- Watching videos An introduction to scikit-learn [Part I](https://confer
 week 42-  Studing Scikit learn Tutorials of Iris datasets and digits with help of videos from previous week Scipy 2013
 <br>
 <br>
+week 43-  No work completed due to long awaiting vacation.Apologize
+<br>
+<br>
+week 44-  T-test theory only
+<br>
+<br>
+week 45-  Starting first of the 3 algorithm (Color quantization using k-means)
+<br>
+<br>
