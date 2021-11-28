@@ -37,3 +37,9 @@ week 44-  T-test theory only
 week 45-  Starting first of the 3 algorithm (Color quantization using k-means)
 <br>
 <br>
+week 46-  No work completed on this week
+<br>
+<br>
+week 47- 
+<br>
+<br>
