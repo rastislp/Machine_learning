@@ -54,6 +54,9 @@ week 45-  Starting first of the 3 algorithm (Color quantization using k-means)
 week 46-  No work completed on this week
 <br>
 <br>
-week 47- 
+week 47- Completing 1st algorithm
+<br>
+<br>
+week 48 - 
 <br>
 <br>
