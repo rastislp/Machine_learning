@@ -5,8 +5,22 @@
 <br><br>
 <br>
 
+## Content:
 
-
+2.1 Color Quantization using K-Means
+<br>
+2.2 Color spacing
+<br>
+2.3 Palette selection
+<br>
+2.4 Random selection
+<br>
+2.5 Selection with K-means
+<br>
+2.6 Sample code from Scipy
+<br>
+2.7 Other approach of Color Qauntization by K-means
+<br>
 
 
 
