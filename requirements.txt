@@ -1,3 +1,7 @@
 numpy
 matplotlib
 sklearn
+os
+math
+cv2
+urllib.request
