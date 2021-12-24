@@ -60,3 +60,12 @@ week 47- Completing 1st algorithm
 week 48 - 
 <br>
 <br>
+week 49 -Started work on Scipy-stats.ipynb
+<br>
+<br>
+week 50 - Studing all types of ANOVA reading and watching from multiple sources
+<br>
+<br>
+week 51 -Scipy-stats.ipynb completed
+<br>
+<br>
