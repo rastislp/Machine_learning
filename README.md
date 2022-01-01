@@ -7,6 +7,13 @@
 
 ## Content:
 
+<br>
+1.1 Scikit overview
+<br>
+1.2 Machine learning
+<br>
+1.3 Terms
+<br>
 2.1 Color Quantization using K-Means
 <br>
 2.2 Color spacing
@@ -75,3 +82,9 @@ week 51 -Scipy-stats.ipynb completed
 week 1 -Linear regression in scikit-learn completed
 <br>
 <br>
+
+### Conclusion
+<br>
+<br>
+I have spent many evenings in the front of my desktop with anger as I have not fully practise with indiviual modules and bet on my previous knowledge about Matplot, seaborn Panda and other libraries. That seems to be biggest mistake as very often i have spent time on dataframe manipulation or fixxing errors. Due to time constraint i coudn't work on third algorithm. Its always difficult to find right balance between education, work and family time. I believe i could do better however there has been lots of variables (moving to new country, new job and kids settling in new enviroment) particularlly in this last 3 months. 
+
