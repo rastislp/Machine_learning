@@ -5,3 +5,5 @@ os
 math
 cv2
 urllib.request
+panda
+seaborn
