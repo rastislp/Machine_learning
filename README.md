@@ -21,7 +21,10 @@
 <br>
 2.7 Other approach of Color Qauntization by K-means
 <br>
-
+3.1 Linear regression
+<br>
+3.2 Linear regression within Life Expectancy Data
+<br>
 
 
 
@@ -67,5 +70,8 @@ week 50 - Studing all types of ANOVA reading and watching from multiple sources
 <br>
 <br>
 week 51 -Scipy-stats.ipynb completed
+<br>
+<br>
+week 1 -Linear regression in scikit-learn completed
 <br>
 <br>
